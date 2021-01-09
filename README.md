@@ -37,3 +37,21 @@ CirclePerimeter(r){
   return perimeter;
 }
 ```
+
+### Triangle
+
+##### Area
+```javascript
+TriangleArea(b,h){
+  let area = b*h/2;
+  return area;
+}
+```
+
+##### Perimeter
+```javascript
+TrianglePerimeter(a,b,c){
+  let perimeter = a+b+c;
+  return perimeter;
+}
+```
