@@ -4,13 +4,13 @@ Some Math formulas written in JS
 #
 
 ### Content
-##### [Square](#square)
+##### [Square](#square-1)
 ##### Circle
 ##### Triangle
 
 #
 
-## Square <a name="square"></a>
+### Square
 
 ##### Area
 ```javascript
