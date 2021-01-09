@@ -1,4 +1,4 @@
-# math-js
+# math-js 💯
 Some Math formulas written in JS
 
 #
