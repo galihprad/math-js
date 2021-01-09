@@ -1,8 +1,16 @@
 # math-js
 Some Math formulas written in JS
 
+#
 
-### Square
+### Content
+##### [Square](#square)
+##### Circle
+##### Triangle
+
+#
+
+### Square <a name="square"></a>
 
 ##### Area
 ```javascript
