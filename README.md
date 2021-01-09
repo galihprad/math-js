@@ -4,7 +4,7 @@ Some Math function written in JS
 
 ### Square
 
-#### Area
+##### Area
 ```javascript
 SquareArea(s){
   let area = s*s;
@@ -12,7 +12,7 @@ SquareArea(s){
 }
 ```
 
-#### Perimeter
+##### Perimeter
 ```javascript
 SquarePerimeter(s){
   let perimeter = 4*s;
