@@ -19,3 +19,21 @@ SquarePerimeter(s){
   return perimeter;
 }
 ```
+
+### Circle
+
+##### Area
+```javascript
+CircleArea(r){
+  let area = Math.PI*r*r;
+  return area;
+}
+```
+
+##### Perimeter
+```javascript
+SquarePerimeter(r){
+  let perimeter = 2*Math.PI*r;
+  return perimeter;
+}
+```
