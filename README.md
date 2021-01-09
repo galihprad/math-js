@@ -47,7 +47,19 @@ TriangleArea(b,h){
   return area;
 }
 ```
-
+```javascript
+TriangleArea(a,b, angleACB){
+  let area = a*b*Math.sin(angleACB)/2;
+  return area;
+}
+```
+```javascript
+TriangleArea(a,b,c){
+  let s = (a+b+c)/2; // semi perimeter
+  let area=Math.sqrt(s*(s-a)*(s-b)*(s-c));
+  return area;
+}
+```
 ##### Perimeter
 ```javascript
 TrianglePerimeter(a,b,c){
