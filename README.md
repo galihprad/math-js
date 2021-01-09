@@ -4,9 +4,9 @@ Some Math formulas written in JS
 #
 
 ### Content
-##### [Square](#square-1)
-##### Circle
-##### Triangle
+[Square](#square)
+Circle
+Triangle
 
 #
 
