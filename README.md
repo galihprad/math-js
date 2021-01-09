@@ -1,5 +1,5 @@
 # math-js
-Some Math function written in JS
+Some Math formulas written in JS
 
 
 ### Square
@@ -32,7 +32,7 @@ CircleArea(r){
 
 ##### Perimeter
 ```javascript
-SquarePerimeter(r){
+CirclePerimeter(r){
   let perimeter = 2*Math.PI*r;
   return perimeter;
 }
