@@ -10,7 +10,7 @@ Some Math formulas written in JS
 
 #
 
-## Square
+## Square <a name="square"></a>
 
 ##### Area
 ```javascript
