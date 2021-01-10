@@ -11,6 +11,8 @@ Some Math formulas written in JS
 
 [Triangle](#triangle)
 
+[Trigonometry](trigonometry)
+
 #
 
 ### Square
@@ -64,17 +66,14 @@ TriangleArea(a,b, angleACB){
   return area;
 }
 ```
+
+
+### Trigonometry
+
 ```javascript
-TriangleArea(a,b,c){
-  let s = (a+b+c)/2; // semi perimeter
-  let area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
-  return area;
+SinAplusB(A,B){
+  let result = Math.sin(A)*Math.cos(B)+Math.sin(B)*Math.cos(A);
+  return result
 }
 ```
-##### Perimeter
-```javascript
-TrianglePerimeter(a,b,c){
-  let perimeter = a+b+c;
-  return perimeter;
-}
-```
+
