@@ -11,7 +11,7 @@ Some Math formulas written in JS
 
 [Triangle](#triangle)
 
-[Trigonometry](trigonometry)
+[Trigonometry](#trigonometry)
 
 #
 
