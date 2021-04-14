@@ -1,17 +1,10 @@
-# math-js 💯
-Some Math formulas written in JS
+#### 👆👆👆 Table of Content is here
 
 #
 
-### Content
+# math-js 💯
+Some Math formulas written in JS
 
-[Square](#square)
-
-[Circle](#circle)
-
-[Triangle](#triangle)
-
-[Trigonometry](#trigonometry)
 
 #
 
