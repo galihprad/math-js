@@ -1,4 +1,4 @@
-#### 👆👆👆 Table of Content is here
+#### 👆 Table of Content is here
 
 #
 
